@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "savvy-primacy-363110",
+  "private_key_id": "bef4be9b90105e7fdba84e4d124ba7a573ba7100",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCheBtQ7K/78d7t\n6acykNi8d1jvUSNj5EPU16izu9twLLvLDuLApbWPxZASUMu7+ahzV03t7XJkwrNL\nncpfLnGtsxn/BUPKI/AIzZl1ngOkxn3KLvWs1+Yxof2SHrcbseO2544xk8GQdGHz\nCso+YnkpsojUW0Nni+6RJemZXg5wO8NDXDhCYRsC6dVABq+TuS8wz7k/kCwuNC1O\nzJf6/UszUcv5zO2TWR+qe6e8OUT9K4bS+0TFRq7hKzAHk2h20Rg9V0Er3QnOVkeq\nK+KOmpObffeneGtY3TE/6ht2ohS8b/30awBh7FzM6iKXaljJj9+9l+v1XzGKOvDO\neYQ0TpZRAgMBAAECggEANqEpNMbvf6FEmF/OFriU66bBay6bd6d6H5/bTvwG8Tvh\nSYE+zIkEFaF07g1x8KY2DNgD4LTOWDLbcIDxQCS5h1gqOnLwjYp9Iq1U90s/1lbl\npisfKZxeIHq7DN3he7hC39YV8MYZ3iLSJOWIqXSto6Lo0lgSRQ096NPX5fDBl8zG\n3dzw1RpyqDuG7o+ZrxRUbLA0IaN2Z666NIbJGzr5GGCyYhLhJPAys8pQOmzPljM5\nwvWpDOw4RC4Abpz5/RtIqXRJ+aH4NzYNbA9JeMSYmEjyVic8qCOuu7uiVfEUnP3m\nHvUpYDwJx3Dxx1yrUV1gKHMs6ChJx+GRgagEbH2IlQKBgQDNO+TYCBEtt3/1Wcak\nfRnBLalYtghtjRrgNgA5UGI3leENA3ymXTUqFLHhnFiUTuhmkzKEPKcwuWocVoX4\n3OJq+mSfR54WycAxYn6dylLkBvX4q+Ev47BdTCMbElwXemQ/SDhGOxw/sdHdt0bo\nPlxKpDeNbLFtaAu4DNkaBwborwKBgQDJaODn7CJHS8fpUdBq+mHUClLx8aoakKUV\nr82QL2ngjnHzDvXZyN6ET8aQZPo9iV1el9ZgMNDZEnMUWqnt4sUsUtXGaUBk7Kkn\nK3xj27px1foSFuyOZZK4FoZ4944zUEOcz6a+qU7KpE47Axff6XaNYI0R0j6yzTpk\nsjr2fvQw/wKBgExV0rBnj7wpXHathaz4uvOXQD22tzvIGA79BuhKdb2nCaYFff+C\n+5tDR0ZbGLdRAi/k4A0/YhBFZqpTpFEEF1Mi/vofcTWYpNu5fs7BykL2M9biV0ew\nsJCDGSugkJBK/a5r9kJpCgDG6wBEgyMuzrUUj3US0IuY/4LdhIKhyngRAoGARDBJ\n1LtRb6nsaMXWNiHG9S75nggfexb1jT4T7nje87PGSHAMNEuZalpH86L8RdE310q4\nvaBJVPS2GXIIjg10i+kPjzkbIBAvxJ8oYfaGTPwQygcQ17Tz03ds14+YiS7ndTOo\nVGylzF2MTtZhQuGbzYmeuSXhLE/nMShWZhXdPqkCgYAmNji2QBp2LTYa2QWKFgAb\nfRyfVs/fMHwkAXFhsHHkifP3WltoUjVsGrAf3VgfYOe/+V9fyLZqishYsNxKu7dS\n1f9jy7aZSeDFCUxKNfQ3uGwoVQLghIe/rNoMkWPQQtId8bYrbWSLj1oj+mryrdit\nxER8YxXgGV3Z7+dMEJ20Ag==\n-----END PRIVATE KEY-----\n",
+  "client_email": "dbt-user@savvy-primacy-363110.iam.gserviceaccount.com",
+  "client_id": "108314086437902085210",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dbt-user%40savvy-primacy-363110.iam.gserviceaccount.com"
+}
